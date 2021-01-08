@@ -1,0 +1,27 @@
+{
+  "name": "node_training",
+  "version": "1.0.0",
+  "description": "Tutorial",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchois/node_training.git"
+  },
+  "author": "Juliana Chois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchois/node_training/issues"
+  },
+  "homepage": "https://github.com/jchois/node_training#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {}
+}
